@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Niletheus
-- 👀 I’m interested in computers
-- 🌱 I’m currently learning Roblox Lua
-- 📫 How to reach me: niletheus on discord
+- 🌱 I’m currently trying to make games on Roblox
+- 📫 niletheus on Discord
 
 <!---
 Niletheus/Niletheus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
