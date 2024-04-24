@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Niletheus
-- 🌱 I’m currently trying to make games on Roblox
+- 🌱 I code in Lua/u & Java
 - 📫 niletheus on Discord
 
 <!---
