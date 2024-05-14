@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Niletheus
-- 🌱 I code in Lua/u & Java
+- 🌱 Learning Lua/u & Java, but don't really have anything to show for it yet...
 - 📫 niletheus on Discord
 
 <!---
